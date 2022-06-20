@@ -1,3 +1,3 @@
-FROM elasticsearch:8.2.3
+FROM elasticsearch
 
 EXPOSE 9200
