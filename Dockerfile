@@ -1,3 +1,3 @@
-FROM docker.elastic.co/elasticsearch/elasticsearch:8.2.3@sha256:8c0508d6e347dbf0fb4e74cb13e71eaaa2e9a1dd09779a0bd484c6caab2d2257
+FROM elasticsearch:8.2.3
 
 EXPOSE 9200
